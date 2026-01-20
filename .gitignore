@@ -1,0 +1,19 @@
+#api key
+.env
+#python cache
+__pycache__/
+*.pyc
+
+#virtual env
+venv/
+.venv/
+env/
+
+#my data
+biodata/
+
+#streamlit configs
+.streamlit/
+
+
+
