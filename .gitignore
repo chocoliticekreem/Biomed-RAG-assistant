@@ -15,5 +15,7 @@ biodata/
 #streamlit configs
 .streamlit/
 
-
+index_storage/
+biomeddata.db
+temp.pdf
 

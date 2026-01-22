@@ -2,3 +2,6 @@ llama-index
 llama-index-readers-file
 openai
 python-dotenv
+pdfplumber
+streamlit
+sqlite3
