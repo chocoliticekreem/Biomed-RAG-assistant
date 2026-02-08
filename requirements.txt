@@ -6,5 +6,6 @@ streamlit
 streamlit
 llama-index-core>=0.12.0
 llama-index-llms-openai
+llama-index-embeddings-openai
 openai>=1.0.0
 pandas
